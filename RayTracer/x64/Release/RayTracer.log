@@ -1,0 +1,36 @@
+﻿  backOrdersRGB.cpp
+c:\users\2two2\source\repos\raytracer\raytracer\vec3.h(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\vec3.h(141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(22): error C2027: use of undefined type 'hit_record'
+  c:\users\2two2\source\repos\raytracer\raytracer\material.h(6): note: see declaration of 'hit_record'
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(22): error C2228: left of '.p' must have class/struct/union
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(22): error C2228: left of '.normal' must have class/struct/union
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(22): error C3861: 'random_in_unit_sphere': identifier not found
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(23): error C2027: use of undefined type 'hit_record'
+  c:\users\2two2\source\repos\raytracer\raytracer\material.h(6): note: see declaration of 'hit_record'
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(23): error C2228: left of '.p' must have class/struct/union
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(56): error C2027: use of undefined type 'hit_record'
+  c:\users\2two2\source\repos\raytracer\raytracer\material.h(6): note: see declaration of 'hit_record'
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(56): error C2228: left of '.normal' must have class/struct/union
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(56): error C2660: 'reflect': function does not take 1 arguments
+  c:\users\2two2\source\repos\raytracer\raytracer\material.h(42): note: see declaration of 'reflect'
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(57): error C2027: use of undefined type 'hit_record'
+  c:\users\2two2\source\repos\raytracer\raytracer\material.h(6): note: see declaration of 'hit_record'
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(57): error C2228: left of '.p' must have class/struct/union
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(57): error C2440: '<function-style-cast>': cannot convert from 'vec3' to 'ray'
+  c:\users\2two2\source\repos\raytracer\raytracer\material.h(57): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(59): error C2027: use of undefined type 'hit_record'
+  c:\users\2two2\source\repos\raytracer\raytracer\material.h(6): note: see declaration of 'hit_record'
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(59): error C2228: left of '.normal' must have class/struct/union
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(59): error C2660: 'dot': function does not take 1 arguments
+  c:\users\2two2\source\repos\raytracer\raytracer\vec3.h(95): note: see declaration of 'dot'
+c:\users\2two2\source\repos\raytracer\raytracer\hitable_list.h(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(50): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(69): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(70): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(71): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(72): warning C4305: 'argument': truncation from 'double' to 'float'

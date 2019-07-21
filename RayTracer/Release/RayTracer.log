@@ -1,0 +1,17 @@
+﻿  backOrdersRGB.cpp
+c:\users\2two2\source\repos\raytracer\raytracer\vec3.h(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\vec3.h(141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\hitable_list.h(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\material.h(20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(37): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(52): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(73): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\2two2\source\repos\raytracer\raytracer\backordersrgb.cpp(74): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  0 of 76 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RayTracer.vcxproj -> C:\Users\2TwO2\source\repos\RayTracer\Release\RayTracer.exe
